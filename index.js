@@ -1,8 +1,7 @@
 const http = require('http')
 const port = 8080
 // Create a server object:
-const server = http.createServer(function (req, res) { // Write a response 
-to the client
+const server = http.createServer(function (req, res) { // Write a response to the client
     res.write('Hello World')
     // End the response
 res.end() })
