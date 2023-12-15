@@ -16,5 +16,9 @@
     "url": "https://github.com/mattgwin29/CISC474-Exercise-5/issues"
   },
   "homepage": "https://github.com/mattgwin29/CISC474-Exercise-5#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "firebase-admin": "^12.0.0"
+  }
 }
